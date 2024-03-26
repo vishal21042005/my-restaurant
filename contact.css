@@ -1,0 +1,101 @@
+#contact_row{
+    display:flex;
+}
+
+#big_box input{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height:40px;
+    width:300px;
+}
+
+
+#big_box{
+    
+    border-width:2px;
+    border-color:rgba(218, 59, 184, 0.899);
+    border-style : solid;
+    background-color:rgba(218, 59, 184, 0.899) ;
+    text-align: center;
+    
+    
+}
+#section{
+    text-align: center;
+
+
+}
+
+#contact_coltwo{
+    margin-left: 500px;
+margin-top: 40px;
+}
+
+
+
+
+#tm{
+padding-bottom: 50px;
+}
+
+
+#button_send_massage{
+    text-align: center;
+    
+    margin-bottom: 15px;
+}
+#bn{
+    background-color: rgb(249, 146, 2);
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-color:rgb(249, 146, 2) ;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#git{
+    font-size: 25px;
+}
+
+#contact_col{
+    /* font-family: 'Times New Roman', Times, serif; */
+    margin-top: 105px;
+    margin-left: 50px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+#address{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#google{
+    height:28px;
+    width:25px;
+border-color: black;
+border-style: solid;
+border-width: 2px;
+
+}
+#facebook{
+    height:28px;
+    width:25px;
+    border-color: black;
+border-style: solid;
+border-width: 2px;
+
+}
+#instagram{
+height:28px;
+width:25px;
+border-color: black;
+border-style: solid;
+border-width: 2px;
+
+}
+
