@@ -1,0 +1,26 @@
+#section{
+    text-align: center;
+}
+#pi{
+    display:flex;
+}
+#pi img{
+    height: 600px;
+    width:550px;
+    margin-left: 200px;
+}
+
+#pi p{
+    height: 10px;
+width:600px;
+text-align: justify;
+}
+
+
+#as {
+margin-left:200px ;
+
+}
+*{
+    background-color: aquamarine;
+}  
