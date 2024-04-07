@@ -1,0 +1,58 @@
+*{
+    padding :0px ;
+    margin: 0px;
+
+
+}
+.box_indent{
+    display: flex;
+    justify-content: center;
+    
+    background-image: url("login.png");
+    background-size: cover;
+    height: 740px;
+}
+
+
+
+
+
+#sub_div input {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+}
+
+#sub_div h3 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+
+}
+
+#signup_title{
+text-align: center;
+margin-top: 15px;
+margin-bottom: 25px;
+color: white;
+}
+
+
+#sp{
+margin-left: 55px;
+margin-top: 10px;
+margin-bottom: 20px;
+color: white;
+background-color: rgb(14, 14, 175);
+}
+
+a{
+background-color: rgb(14, 14, 175);
+display : inline;
+}
+
+
+
+
